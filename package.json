@@ -1,0 +1,19 @@
+{
+  "name": "coding-challenges",
+  "version": "1.0.0",
+  "description": "coding challenges using typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ienouali/coding-challenges.git"
+  },
+  "author": "ienouali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ienouali/coding-challenges/issues"
+  },
+  "homepage": "https://github.com/ienouali/coding-challenges#readme"
+}
